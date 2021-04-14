@@ -1,0 +1,9 @@
+.webviewer {
+    height: calc(86vh - 50px);
+    width: 90%;
+    margin-left: 5vmax;
+}
+
+.btn{
+  margin-left: 60vmin;
+}
